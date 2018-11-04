@@ -1,0 +1,148 @@
+{
+  "uid" : "8dca2badd9d47627",
+  "name" : "TestLogin.test_login[itheimam-1234566-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "fullName" : "test_login.TestLogin.test_login[itheimam-1234566-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "historyId" : "691aecb57abeb56724dabad0f60e386b",
+  "time" : {
+    "start" : 1541164018892,
+    "stop" : 1541164022918,
+    "duration" : 4026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "开始执行测试登录脚本...",
+      "time" : {
+        "start" : 1541164018897,
+        "stop" : 1541164022918,
+        "duration" : 4021
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "输入用户名",
+        "time" : {
+          "start" : 1541164018897,
+          "stop" : 1541164020006,
+          "duration" : 1109
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "9485bc6f1ba985c1",
+          "name" : "输入用户名: itheimam",
+          "source" : "9485bc6f1ba985c1.txt",
+          "type" : "text/plain",
+          "size" : 0
+        } ],
+        "parameters" : [ ],
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "输入密码",
+        "time" : {
+          "start" : 1541164020006,
+          "stop" : 1541164021107,
+          "duration" : 1101
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "a6ec030238e7584a",
+          "name" : "输入密码: 1234566",
+          "source" : "a6ec030238e7584a.txt",
+          "type" : "text/plain",
+          "size" : 0
+        } ],
+        "parameters" : [ ],
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "点击 登录",
+        "time" : {
+          "start" : 1541164021107,
+          "stop" : 1541164021675,
+          "duration" : 568
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "71e493ce1290522a",
+        "name" : "开始断言...",
+        "source" : "71e493ce1290522a.txt",
+        "type" : "text/plain",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Y-S-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "4756-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_login[itheimam-1234566-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8dca2badd9d47627.json",
+  "parameterValues" : [ ]
+}

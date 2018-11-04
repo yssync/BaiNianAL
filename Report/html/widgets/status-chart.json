@@ -1,0 +1,81 @@
+[ {
+  "uid" : "b8c134444fba68b5",
+  "name" : "TestLogin.test_login[ 18610453007 -123456-itheima-None]",
+  "time" : {
+    "start" : 1541163932611,
+    "stop" : 1541163961260,
+    "duration" : 28649
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61c13ef3d1dfe35",
+  "name" : "TestLogin.test_login[18610453007-1234566-None-\\u767b\\u5f55\\u5bc6\\u7801\\u9519\\u8bef]",
+  "time" : {
+    "start" : 1541163907498,
+    "stop" : 1541163932601,
+    "duration" : 25103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba97cdbdb35cbd1e",
+  "name" : "TestLogin.test_login[ itheima -123456-itheima-None]",
+  "time" : {
+    "start" : 1541163988297,
+    "stop" : 1541164014429,
+    "duration" : 26132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dca2badd9d47627",
+  "name" : "TestLogin.test_login[itheimam-1234566-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "time" : {
+    "start" : 1541164018892,
+    "stop" : 1541164022918,
+    "duration" : 4026
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfa547e804c957c",
+  "name" : "TestLogin.test_login[186104530077-123456-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "time" : {
+    "start" : 1541164014436,
+    "stop" : 1541164018817,
+    "duration" : 4381
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec0f0a9d43801808",
+  "name" : "TestLogin.test_login[itheima-123456-itheima-None]",
+  "time" : {
+    "start" : 1541163961267,
+    "stop" : 1541163988288,
+    "duration" : 27021
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f068243b3b90956",
+  "name" : "TestLogin.test_login[18610453007-123456-itheima-None]",
+  "time" : {
+    "start" : 1541164022928,
+    "stop" : 1541164049783,
+    "duration" : 26855
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "935fa08fb009135c",
+  "name" : "TestLogin.test_login[itheima-1234566-None-\\u767b\\u5f55\\u5bc6\\u7801\\u9519\\u8bef]",
+  "time" : {
+    "start" : 1541164049793,
+    "stop" : 1541164054086,
+    "duration" : 4293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

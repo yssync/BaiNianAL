@@ -1,0 +1,148 @@
+{
+  "uid" : "bfa547e804c957c",
+  "name" : "TestLogin.test_login[186104530077-123456-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "fullName" : "test_login.TestLogin.test_login[186104530077-123456-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "historyId" : "8039c0777721718be52ca97f52ffac93",
+  "time" : {
+    "start" : 1541164014436,
+    "stop" : 1541164018817,
+    "duration" : 4381
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "开始执行测试登录脚本...",
+      "time" : {
+        "start" : 1541164014445,
+        "stop" : 1541164018816,
+        "duration" : 4371
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "输入用户名",
+        "time" : {
+          "start" : 1541164014445,
+          "stop" : 1541164016099,
+          "duration" : 1654
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "f2a2c26938244fe5",
+          "name" : "输入用户名: 186104530077",
+          "source" : "f2a2c26938244fe5.txt",
+          "type" : "text/plain",
+          "size" : 0
+        } ],
+        "parameters" : [ ],
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "输入密码",
+        "time" : {
+          "start" : 1541164016099,
+          "stop" : 1541164017155,
+          "duration" : 1056
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "9a35675a3a1dfba5",
+          "name" : "输入密码: 123456",
+          "source" : "9a35675a3a1dfba5.txt",
+          "type" : "text/plain",
+          "size" : 0
+        } ],
+        "parameters" : [ ],
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "点击 登录",
+        "time" : {
+          "start" : 1541164017155,
+          "stop" : 1541164017719,
+          "duration" : 564
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "3793612e78cd6b37",
+        "name" : "开始断言...",
+        "source" : "3793612e78cd6b37.txt",
+        "type" : "text/plain",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 3,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Y-S-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "4756-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_login[186104530077-123456-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfa547e804c957c.json",
+  "parameterValues" : [ ]
+}
